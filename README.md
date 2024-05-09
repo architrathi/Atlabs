@@ -67,6 +67,7 @@
 ## Author
 
 - **[Archit Rathi](https://github.com/architrathi)** - Creator at Atlabs AI
+- **[Tushar Tuteja](https://github.com/tushartuteja)** - Creator at Atlabs AI
 
 ---
 
