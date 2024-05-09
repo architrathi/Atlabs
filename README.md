@@ -4,6 +4,9 @@
   <img src="https://framerusercontent.com/images/Apx17b5F1x7XTMh0TSyS54f1UQ.png?scale-down-to=512" alt="Atlabs logo" width="100">
 </p>
 
+
+
+
 **Atlabs is an end-to-end AI video creation platform for businesses. With Atlabs, you input text or import existing content, set parameters, and get a professional video tailored to your brand - with slick motion graphics, B-rolls, captions, and more.**
 
 ## Key Highlights 🌐
