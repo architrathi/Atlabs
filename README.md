@@ -7,7 +7,7 @@
 
 
 
-**Atlabs is an end-to-end AI video creation platform for businesses. With Atlabs, you input text or import existing content, set parameters, and get a professional video tailored to your brand - with slick motion graphics, B-rolls, captions, and more.**
+**Atlabs is an end-to-end AI video marketing platform for businesses. With Atlabs, you input text or import existing content, set parameters, and get a professional video tailored to your brand - with slick motion graphics, B-rolls, captions, and more.**
 
 ## Key Highlights 🌐
 - [Features](#top-features)
