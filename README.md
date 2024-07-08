@@ -62,7 +62,7 @@
 `❓ Absolutely! In fact, Atlabs automatically adds captions for you with 95%+ accuracy. You have several styles to choose from as well.`
 
 ### Can you make youtube shorts or TikTok automatically?
-`❓ Yes. Takes a few mins to get create a video. Setup your content calendar once and forget. Atlabs does the work for you.`
+`❓ Yes. Takes a few mins to create a video. Setup your content calendar once and forget. Atlabs does the work for you.`
 
 ## Author
 
