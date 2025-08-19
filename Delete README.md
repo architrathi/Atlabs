@@ -1,7 +1,7 @@
 # Atlabs AI 🎞️✨
 
 <p align="left">
-  <img src="https://framerusercontent.com/images/Apx17b5F1x7XTMh0TSyS54f1UQ.png?scale-down-to=512" alt="Atlabs logo" width="100">
+ repo <img src="https://framerusercontent.com/images/Apx17b5F1x7XTMh0TSyS54f1UQ.png?scale-down-to=512" alt="Atlabs logo" width="100">
 </p>
 
 
